@@ -28,13 +28,13 @@ informe-2/
 │   ├── main/
 │   │   └── java/
 │   │       └── informe2/
-│   │           ├── Multiplicacion.java
-│   │           └── Division.java
+│   │           ├── Multiplica.java
+│   │           └── Divide.java
 │   └── test/
 │       └── java/
 │           └── informe2/
-│               ├── MultiplicacionTest.java
-│               └── DivisionTest.java
+│               ├── MultiplicaTest.java
+│               └── DivideTest.java
 ├── .gitignore
 ├── pom.xml
 └── README.md
